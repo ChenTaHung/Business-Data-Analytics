@@ -1,2 +1,3 @@
 # Business-Data-Analytics
-自動化商業資料分析
+
+Course work in National Central University.
